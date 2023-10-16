@@ -14,6 +14,6 @@ Atau bisa juga buka situs [Wordpress](athjourney8.wordpress.com)ku. <br>
 <p align="left">
 <a href="https://github.com/athallahdx">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=athallahdx&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=athallahdx&layout=compact&layout=compact&theme=algolia"/>
+  <img [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athallahdx&layout=pie)](https://github.com/athallahdx/github-readme-stats)
 </a>
 </p>
