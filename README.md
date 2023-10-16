@@ -10,10 +10,11 @@ Jika kamu tertarik untuk berkenalan lebih dalam denganku, silakan ikuti akun [Li
 
 Atau bisa juga buka situs [Wordpress](athjourney8.wordpress.com)ku. <br>
 <br>
-### Github Statistic
+### GitHub Statistics
 <p align="left">
-<a href="https://github.com/athallahdx">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=athallahdx&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=athallahdx&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/athallahdx">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=athallahdx&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athallahdx&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
+
