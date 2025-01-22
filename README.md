@@ -6,14 +6,13 @@ I specialize in **Data Analysis** and **Web Development**, utilizing tools such 
 
 If you'd like to connect further, feel free to follow my [LinkedIn](https://www.linkedin.com/in/athallah-tsany-satriyaji-635630222/).
 
-Looking forward to connecting with you! 
+Looking forward to connecting with you!
 
-<br>
 **GitHub Statistics**
+
 <p align="left">
   <a href="https://github.com/athallahdx">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=athallahdx&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athallahdx&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-
