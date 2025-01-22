@@ -1,14 +1,12 @@
-# Halo semua! 
+Hello Everyone!
+I'm Athallah Tsany Satriyaji, a Computer Science Student at UNSOED.
 
-Perkenalkan nama saya **Athallah Tsany Satriyaji**.<br>
+I specialize in Data Analysis and Web Development, utilizing tools such as Tableau, Python, and Excel for data analysis, and frameworks like React.js and Laravel for web development
 
-Saya seorang **Mahasiswa Informatika** di [UNSOED](https://if.unsoed.ac.id).<br>
+If you'd like to connect further, feel free to follow my LinkedIn.
 
-Saya memiliki passion di bidang matematika, pengembangan kercedasan buatan, dan juga pengembangan aplikasi android  .<br>
+Looking forward to connecting with you!
 
-Jika kamu tertarik untuk berkenalan lebih dalam denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/athallah-tsany-satriyaji-635630222/)ku ya. <br>
-
-Atau bisa juga buka situs [Wordpress](athjourney8.wordpress.com)ku. <br>
 <br>
 ### GitHub Statistics
 <p align="left">
