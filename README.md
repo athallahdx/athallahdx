@@ -8,7 +8,7 @@ If you'd like to connect further, feel free to follow my [LinkedIn](https://www.
 
 Looking forward to connecting with you!
 
-**GitHub Statistics**
+# GitHub Statistics
 
 <p align="left">
   <a href="https://github.com/athallahdx">
