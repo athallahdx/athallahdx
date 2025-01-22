@@ -9,7 +9,7 @@ If you'd like to connect further, feel free to follow my [LinkedIn](https://www.
 Looking forward to connecting with you! 
 
 <br>
-# GitHub Statistics
+**GitHub Statistics**
 <p align="left">
   <a href="https://github.com/athallahdx">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=athallahdx&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
