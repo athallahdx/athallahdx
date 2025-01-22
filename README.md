@@ -1,11 +1,12 @@
-Hello Everyone!
-I'm Athallah Tsany Satriyaji, a Computer Science Student at UNSOED.
+# Hello Everyone!
 
-I specialize in Data Analysis and Web Development, utilizing tools such as Tableau, Python, and Excel for data analysis, and frameworks like React.js and Laravel for web development
+I'm **Athallah Tsany Satriyaji**, a **Computer Science Student** at [UNSOED](https://if.unsoed.ac.id).
 
-If you'd like to connect further, feel free to follow my LinkedIn.
+I specialize in **Data Analysis** and **Web Development**, utilizing tools such as **Tableau**, **Python**, and **Excel** for data analysis, and frameworks like **React.js** and **Laravel** for web development.
 
-Looking forward to connecting with you!
+If you'd like to connect further, feel free to follow my [LinkedIn](https://www.linkedin.com/in/athallah-tsany-satriyaji-635630222/).
+
+Looking forward to connecting with you! 
 
 <br>
 ### GitHub Statistics
